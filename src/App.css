@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+input{
+  height: 35px;
+  outline: none;
+  background-color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 7px;
+}
